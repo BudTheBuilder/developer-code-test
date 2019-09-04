@@ -1,0 +1,1427 @@
+[
+    {
+        "accession_number": "2015.584", 
+        "artwork_id": "86508", 
+        "creator": [
+            {
+                "creator_description": "John Taylor Arms (American, 1887-1953)", 
+                "creator_role": "artist"
+            }, 
+            {
+                "Frederick Reynolds (American, b. England, 1882-1945)": "printer"
+            }
+        ], 
+        "department_name": "Prints", 
+        "title": "Gates of the City"
+    }, 
+    {
+        "accession_number": "2015.463", 
+        "artwork_id": "90151", 
+        "creator": [
+            {
+                "creator_description": "Ikky\u016b S\u014djun (Japanese, 1394-1481)", 
+                "creator_role": "artist"
+            }
+        ], 
+        "department_name": "Japanese Art", 
+        "title": "Calligraphy with Willow and Swallows"
+    }, 
+    {
+        "accession_number": "1914.726", 
+        "artwork_id": "94346", 
+        "creator": [
+            {
+                "creator_description": null, 
+                "creator_role": null
+            }
+        ], 
+        "department_name": "Egyptian and Ancient Near Eastern Art", 
+        "title": "Flask in the Form of a Leather Bag"
+    }, 
+    {
+        "accession_number": "1915.79", 
+        "artwork_id": "95185", 
+        "creator": [
+            {
+                "creator_description": "Giovanni Francesco Romanelli (Italian, 1610-1662)", 
+                "creator_role": "designed by"
+            }, 
+            {
+                "Michael Wauters (Flemish, 1679)": "woven by"
+            }
+        ], 
+        "department_name": "Textiles", 
+        "title": "Dido and Aeneas"
+    }, 
+    {
+        "accession_number": "1915.79.1", 
+        "artwork_id": "95186", 
+        "creator": [
+            {
+                "creator_description": "Giovanni Francesco Romanelli (Italian, 1610-1662)", 
+                "creator_role": "designed by"
+            }, 
+            {
+                "Michael Wauters (Flemish, 1679)": "woven by"
+            }
+        ], 
+        "department_name": "Textiles", 
+        "title": "Venus tells Aeneas and his friend Achates to go to Carthage"
+    }, 
+    {
+        "accession_number": "1915.79.2", 
+        "artwork_id": "95187", 
+        "creator": [
+            {
+                "creator_description": "Giovanni Francesco Romanelli (Italian, 1610-1662)", 
+                "creator_role": "designed by"
+            }, 
+            {
+                "Michael Wauters (Flemish, 1679)": "woven by"
+            }
+        ], 
+        "department_name": "Textiles", 
+        "title": "Cupid disguised as Aeneas's son, presents gifts to Dido"
+    }, 
+    {
+        "accession_number": "1915.79.3", 
+        "artwork_id": "95188", 
+        "creator": [
+            {
+                "creator_description": "Giovanni Francesco Romanelli (Italian, 1610-1662)", 
+                "creator_role": "designed by"
+            }, 
+            {
+                "Michael Wauters (Flemish, 1679)": "woven by"
+            }
+        ], 
+        "department_name": "Textiles", 
+        "title": "Dido Sacrifices to Juno, the Goddess of Marriage"
+    }, 
+    {
+        "accession_number": "1915.79.4", 
+        "artwork_id": "95189", 
+        "creator": [
+            {
+                "creator_description": "Giovanni Francesco Romanelli (Italian, 1610-1662)", 
+                "creator_role": "designed by"
+            }, 
+            {
+                "Michael Wauters (Flemish, 1679)": "woven by"
+            }
+        ], 
+        "department_name": "Textiles", 
+        "title": "Dido shows Aeneas the plans for the fortifications of Carthage"
+    }, 
+    {
+        "accession_number": "1915.79.5", 
+        "artwork_id": "95190", 
+        "creator": [
+            {
+                "creator_description": "Giovanni Francesco Romanelli (Italian, 1610-1662)", 
+                "creator_role": "designed by"
+            }, 
+            {
+                "Michael Wauters (Flemish, 1679)": "woven by"
+            }
+        ], 
+        "department_name": "Textiles", 
+        "title": "Dido and Aeneas seek shelter from a storm"
+    }, 
+    {
+        "accession_number": "1915.79.6", 
+        "artwork_id": "95191", 
+        "creator": [
+            {
+                "creator_description": "Giovanni Francesco Romanelli (Italian, 1610-1662)", 
+                "creator_role": "designed by"
+            }, 
+            {
+                "Michael Wauters (Flemish, 1679)": "woven by"
+            }
+        ], 
+        "department_name": "Textiles", 
+        "title": "Mercury tells Aeneas to Leave Carthage"
+    }, 
+    {
+        "accession_number": "1915.79.7", 
+        "artwork_id": "95192", 
+        "creator": [
+            {
+                "creator_description": "Giovanni Francesco Romanelli (Italian, 1610-1662)", 
+                "creator_role": "designed by"
+            }, 
+            {
+                "Michael Wauters (Flemish, 1679)": "woven by"
+            }
+        ], 
+        "department_name": "Textiles", 
+        "title": "Aeneas says Farewell to Dido"
+    }, 
+    {
+        "accession_number": "1915.79.8", 
+        "artwork_id": "95193", 
+        "creator": [
+            {
+                "creator_description": "Giovanni Francesco Romanelli (Italian, 1610-1662)", 
+                "creator_role": "designed by"
+            }, 
+            {
+                "Michael Wauters (Flemish, 1679)": "woven by"
+            }
+        ], 
+        "department_name": "Textiles", 
+        "title": "The Death of Dido"
+    }, 
+    {
+        "accession_number": "1916.796", 
+        "artwork_id": "97158", 
+        "creator": [
+            {
+                "creator_description": null, 
+                "creator_role": null
+            }
+        ], 
+        "department_name": "European Painting and Sculpture", 
+        "title": "Virgin and Child with Saints"
+    }, 
+    {
+        "accession_number": "1916.965", 
+        "artwork_id": "97335", 
+        "creator": [
+            {
+                "creator_description": null, 
+                "creator_role": null
+            }
+        ], 
+        "department_name": "European Painting and Sculpture", 
+        "title": "Listening Angel"
+    }, 
+    {
+        "accession_number": "1916.966", 
+        "artwork_id": "97336", 
+        "creator": [
+            {
+                "creator_description": null, 
+                "creator_role": null
+            }
+        ], 
+        "department_name": "European Painting and Sculpture", 
+        "title": "Two Putti"
+    }, 
+    {
+        "accession_number": "1918.356", 
+        "artwork_id": "98657", 
+        "creator": [
+            {
+                "creator_description": null, 
+                "creator_role": null
+            }
+        ], 
+        "department_name": "African Art", 
+        "title": "Harp"
+    }, 
+    {
+        "accession_number": "1921.1699", 
+        "artwork_id": "103042", 
+        "creator": [
+            {
+                "creator_description": null, 
+                "creator_role": null
+            }
+        ], 
+        "department_name": "Art of the Americas", 
+        "title": "Figurine"
+    }, 
+    {
+        "accession_number": "1928.35", 
+        "artwork_id": "109709", 
+        "creator": [
+            {
+                "creator_description": "Kenneth M Chapman (American, 1875-1968)", 
+                "creator_role": "artist"
+            }
+        ], 
+        "department_name": "Drawings", 
+        "title": "San Ildefonso Pottery Design"
+    }, 
+    {
+        "accession_number": "1931.439", 
+        "artwork_id": "112830", 
+        "creator": [
+            {
+                "creator_description": "Karoly Fulop (Hungarian, 1898-)", 
+                "creator_role": "artist"
+            }
+        ], 
+        "department_name": "Modern European Painting and Sculpture", 
+        "title": "Harmony"
+    }, 
+    {
+        "accession_number": "1937.804", 
+        "artwork_id": "117251", 
+        "creator": [
+            {
+                "creator_description": "Oqwa Pi (American, 1899-1971)", 
+                "creator_role": "artist"
+            }
+        ], 
+        "department_name": "Drawings", 
+        "title": "Masked Figure"
+    }, 
+    {
+        "accession_number": "1937.926", 
+        "artwork_id": "117370", 
+        "creator": [
+            {
+                "creator_description": "Velino Herrera (American, 1902-1973)", 
+                "creator_role": "artist"
+            }
+        ], 
+        "department_name": "Drawings", 
+        "title": "Crow Dancer"
+    }, 
+    {
+        "accession_number": "1942.636", 
+        "artwork_id": "122339", 
+        "creator": [
+            {
+                "creator_description": "Giovanni Battista Cima da Conegliano (Italian, ca. 1459-1518)", 
+                "creator_role": "artist"
+            }, 
+            {
+                "Workshop": "NULL"
+            }, 
+            {
+                "Workshop": "artist"
+            }
+        ], 
+        "department_name": "European Painting and Sculpture", 
+        "title": "Virgin and Child with Saints and Donors"
+    }, 
+    {
+        "accession_number": "1944.237", 
+        "artwork_id": "123705", 
+        "creator": [
+            {
+                "creator_description": "Jean Guillaume Moitte (French, 1746-1810)", 
+                "creator_role": "designed by"
+            }, 
+            {
+                "Antoine-Fran\u00e7ois G\u00e9rard (French, 1760-1843)": "executed by"
+            }
+        ], 
+        "department_name": "European Painting and Sculpture", 
+        "title": "The Game of Leap Frog"
+    }, 
+    {
+        "accession_number": "1945.24", 
+        "artwork_id": "124245", 
+        "creator": [
+            {
+                "creator_description": "Pablo Picasso (Spanish, 1881-1973)", 
+                "creator_role": "artist"
+            }
+        ], 
+        "department_name": "Modern European Painting and Sculpture", 
+        "title": "La Vie"
+    }, 
+    {
+        "accession_number": "1947.106", 
+        "artwork_id": "125133", 
+        "creator": [
+            {
+                "creator_description": "Waldo Pierce (American, 1884-1970)", 
+                "creator_role": "artist"
+            }, 
+            {
+                "Onondaga Silk Company (American)": "manufacturer"
+            }
+        ], 
+        "department_name": "Textiles", 
+        "title": "Fish in Net"
+    }, 
+    {
+        "accession_number": "1949.185", 
+        "artwork_id": "126768", 
+        "creator": [
+            {
+                "creator_description": "Battista Dossi (Italian, ca. 1490-1548)", 
+                "creator_role": "artist"
+            }
+        ], 
+        "department_name": "European Painting and Sculpture", 
+        "title": "Holy Family with a Shepherd"
+    }, 
+    {
+        "accession_number": "1950.91", 
+        "artwork_id": "128075", 
+        "creator": [
+            {
+                "creator_description": null, 
+                "creator_role": null
+            }
+        ], 
+        "department_name": "European Painting and Sculpture", 
+        "title": "The Visitation"
+    }, 
+    {
+        "accession_number": "1952.592", 
+        "artwork_id": "130223", 
+        "creator": [
+            {
+                "creator_description": "Henry Auguste (French, 1759-1816)", 
+                "creator_role": "fabricated by"
+            }
+        ], 
+        "department_name": "Decorative Art and Design", 
+        "title": "Covered Tureen on Stand (Pot \u00e0 oille)"
+    }, 
+    {
+        "accession_number": "1954.13.9", 
+        "artwork_id": "131349", 
+        "creator": [
+            {
+                "creator_description": "Francisco Dosamantes", 
+                "creator_role": "artist"
+            }
+        ], 
+        "department_name": "Prints", 
+        "title": "Arquitectura Funcional:  Shadows, No. 4"
+    }, 
+    {
+        "accession_number": "1957.40", 
+        "artwork_id": "134843", 
+        "creator": [
+            {
+                "creator_description": null, 
+                "creator_role": null
+            }
+        ], 
+        "department_name": "Chinese Art", 
+        "title": "Brush Washer"
+    }, 
+    {
+        "accession_number": "1958.174", 
+        "artwork_id": "135141", 
+        "creator": [
+            {
+                "creator_description": "Le Nain family (French)", 
+                "creator_role": "artist"
+            }, 
+            {
+                "Le Ma\u00eetre des Jeux (French)": "artist"
+            }
+        ], 
+        "department_name": "European Painting and Sculpture", 
+        "title": "A Family Meal"
+    }, 
+    {
+        "accession_number": "1961.205", 
+        "artwork_id": "136667", 
+        "creator": [
+            {
+                "creator_description": null, 
+                "creator_role": null
+            }
+        ], 
+        "department_name": "Egyptian and Ancient Near Eastern Art", 
+        "title": "Nome Gods Bearing Offerings"
+    }, 
+    {
+        "accession_number": "1961.87", 
+        "artwork_id": "137119", 
+        "creator": [
+            {
+                "creator_description": "Adam Dircksz (Netherlandish, active c. 1500)", 
+                "creator_role": "artist"
+            }, 
+            {
+                "Workshop": "NULL"
+            }, 
+            {
+                "Workshop": "artist"
+            }
+        ], 
+        "department_name": "Medieval Art", 
+        "title": "Prayer Nut with Scenes from the Life of St. James the Greater"
+    }, 
+    {
+        "accession_number": "1963.673", 
+        "artwork_id": "140001", 
+        "creator": [
+            {
+                "creator_description": "Peter Carl Faberg\u00e9 (Russian, 1846-1920)", 
+                "creator_role": "artist"
+            }, 
+            {
+                "Henrik Wigstr\u00f6m (Russian, 1862-1923)": "fabricated by"
+            }
+        ], 
+        "department_name": "Decorative Art and Design", 
+        "title": "Imperial Red Cross Easter Egg"
+    }, 
+    {
+        "accession_number": "1964.2", 
+        "artwork_id": "140208", 
+        "creator": [
+            {
+                "creator_description": "Stuart Davis (American, 1894-1964)", 
+                "creator_role": "artist"
+            }
+        ], 
+        "department_name": "American Painting and Sculpture", 
+        "title": "Composition Concrete (Study for Mural)"
+    }, 
+    {
+        "accession_number": "1965.233", 
+        "artwork_id": "141639", 
+        "creator": [
+            {
+                "creator_description": "Frederic Edwin Church (American, 1826-1900)", 
+                "creator_role": "artist"
+            }
+        ], 
+        "department_name": "American Painting and Sculpture", 
+        "title": "Twilight in the Wilderness"
+    }, 
+    {
+        "accession_number": "1965.427", 
+        "artwork_id": "141883", 
+        "creator": [
+            {
+                "creator_description": "Victor Vasarely (French, 1908-1997)", 
+                "creator_role": "artist"
+            }
+        ], 
+        "department_name": "Modern European Painting and Sculpture", 
+        "title": "Lom-Lan"
+    }, 
+    {
+        "accession_number": "1966.435", 
+        "artwork_id": "142719", 
+        "creator": [
+            {
+                "creator_description": "Alexander Edward Tillander (Russian)", 
+                "creator_role": "made by"
+            }
+        ], 
+        "department_name": "Decorative Art and Design", 
+        "title": "Egg with Gold Stand and Easel and Photograph"
+    }, 
+    {
+        "accession_number": "1966.455", 
+        "artwork_id": "142749", 
+        "creator": [
+            {
+                "creator_description": "Peter Carl Faberg\u00e9 (Russian, 1846-1920)", 
+                "creator_role": "artist"
+            }, 
+            {
+                "Henrik Wigstr\u00f6m (Russian, 1862-1923)": "fabricated by"
+            }
+        ], 
+        "department_name": "Decorative Art and Design", 
+        "title": "Salt Cellar"
+    }, 
+    {
+        "accession_number": "1966.458.1", 
+        "artwork_id": "142753", 
+        "creator": [
+            {
+                "creator_description": "Peter Carl Faberg\u00e9 (Russian, 1846-1920)", 
+                "creator_role": "artist"
+            }, 
+            {
+                "Mikhail Evlampievich Perkhin (Russian, 1860-1903)": "fabricated by"
+            }, 
+            {
+                "Mikhail Evlampievich Perkhin (Russian, 1860-1903)": "workmaster"
+            }, 
+            {
+                "Johannes Zehngraf (Russian, 1857-1908)": "miniature painted by"
+            }
+        ], 
+        "department_name": "Decorative Art and Design", 
+        "title": "Framed Miniature: Portrait of Czar Nicholas II"
+    }, 
+    {
+        "accession_number": "1966.458.2", 
+        "artwork_id": "142754", 
+        "creator": [
+            {
+                "creator_description": "Peter Carl Faberg\u00e9 (Russian, 1846-1920)", 
+                "creator_role": "artist"
+            }, 
+            {
+                "Mikhail Evlampievich Perkhin (Russian, 1860-1903)": "fabricated by"
+            }, 
+            {
+                "Mikhail Evlampievich Perkhin (Russian, 1860-1903)": "workmaster"
+            }, 
+            {
+                "Johannes Zehngraf (Russian, 1857-1908)": "miniature painted by"
+            }
+        ], 
+        "department_name": "Decorative Art and Design", 
+        "title": "Framed Miniature: Portrait of Grand Duchess Olga"
+    }, 
+    {
+        "accession_number": "1966.474", 
+        "artwork_id": "142770", 
+        "creator": [
+            {
+                "creator_description": "Peter Carl Faberg\u00e9 (Russian, 1846-1920)", 
+                "creator_role": "artist"
+            }, 
+            {
+                "Henrik Wigstr\u00f6m (Russian, 1862-1923)": "fabricated by"
+            }
+        ], 
+        "department_name": "Decorative Art and Design", 
+        "title": "Elephant Bell Push"
+    }, 
+    {
+        "accession_number": "1966.479", 
+        "artwork_id": "142777", 
+        "creator": [
+            {
+                "creator_description": "Peter Carl Faberg\u00e9 (Russian, 1846-1920)", 
+                "creator_role": "artist"
+            }, 
+            {
+                "Mikhail Evlampievich Perkhin (Russian, 1860-1903)": "fabricated by"
+            }, 
+            {
+                "Mikhail Evlampievich Perkhin (Russian, 1860-1903)": "workmaster"
+            }
+        ], 
+        "department_name": "Decorative Art and Design", 
+        "title": "Miniature Teapot"
+    }, 
+    {
+        "accession_number": "1966.482", 
+        "artwork_id": "142783", 
+        "creator": [
+            {
+                "creator_description": "Peter Carl Faberg\u00e9 (Russian, 1846-1920)", 
+                "creator_role": "artist"
+            }, 
+            {
+                "Mikhail Evlampievich Perkhin (Russian, 1860-1903)": "fabricated by"
+            }, 
+            {
+                "Mikhail Evlampievich Perkhin (Russian, 1860-1903)": "workmaster"
+            }
+        ], 
+        "department_name": "Decorative Art and Design", 
+        "title": "Miniature Shoe"
+    }, 
+    {
+        "accession_number": "1968.64.2", 
+        "artwork_id": "144215", 
+        "creator": [
+            {
+                "creator_description": null, 
+                "creator_role": null
+            }
+        ], 
+        "department_name": "European Painting and Sculpture", 
+        "title": "Putto"
+    }, 
+    {
+        "accession_number": "1969.31", 
+        "artwork_id": "144689", 
+        "creator": [
+            {
+                "creator_description": "Giuseppe Castiglione (Italian, 1688-1766)", 
+                "creator_role": "artist"
+            }, 
+            {
+                "others (Chinese)": "artist"
+            }
+        ], 
+        "department_name": "Chinese Art", 
+        "title": "Portraits of the Qianlong Emperor and His Twelve Consorts"
+    }, 
+    {
+        "accession_number": "1970.160", 
+        "artwork_id": "144966", 
+        "creator": [
+            {
+                "creator_description": "Sandro Botticelli (Italian, 1444/45-1510)", 
+                "creator_role": "artist"
+            }, 
+            {
+                "Workshop": "NULL"
+            }, 
+            {
+                "Workshop": "artist"
+            }
+        ], 
+        "department_name": "Medieval Art", 
+        "title": "Virgin and Child with the Young Saint John the Baptist"
+    }, 
+    {
+        "accession_number": "1971.141", 
+        "artwork_id": "145932", 
+        "creator": [
+            {
+                "creator_description": "Liberty and Company (British)", 
+                "creator_role": "manufacturer"
+            }, 
+            {
+                "null": null
+            }
+        ], 
+        "department_name": "Decorative Art and Design", 
+        "title": "Box"
+    }, 
+    {
+        "accession_number": "1971.301", 
+        "artwork_id": "146117", 
+        "creator": [
+            {
+                "creator_description": null, 
+                "creator_role": null
+            }
+        ], 
+        "department_name": "Indian and South East Asian Art", 
+        "title": "Krishna Returns with the Cowherds to Braj, from a Bhagavata Purana"
+    }, 
+    {
+        "accession_number": "1972.188", 
+        "artwork_id": "146748", 
+        "creator": [
+            {
+                "creator_description": "Worcester Porcelain Factory (British)", 
+                "creator_role": "made by"
+            }, 
+            {
+                "Bristol Porcelain Factory (British)": "made by"
+            }
+        ], 
+        "department_name": "Decorative Art and Design", 
+        "title": "Sauce Boat"
+    }, 
+    {
+        "accession_number": "1973.184", 
+        "artwork_id": "147446", 
+        "creator": [
+            {
+                "creator_description": "\u00c9mile Jacque (French, 1848-1912)", 
+                "creator_role": "artist"
+            }
+        ], 
+        "department_name": "Modern European Painting and Sculpture", 
+        "title": "Blacksmiths"
+    }, 
+    {
+        "accession_number": "1974.26", 
+        "artwork_id": "147906", 
+        "creator": [
+            {
+                "creator_description": "Wang Mian (Chinese, 1287-1359)", 
+                "creator_role": "artist"
+            }
+        ], 
+        "department_name": "Chinese Art", 
+        "title": "A Prunus in the Moonlight"
+    }, 
+    {
+        "accession_number": "1974.36", 
+        "artwork_id": "147935", 
+        "creator": [
+            {
+                "creator_description": null, 
+                "creator_role": null
+            }
+        ], 
+        "department_name": "Textiles", 
+        "title": "Noh Robe"
+    }, 
+    {
+        "accession_number": "1976.97", 
+        "artwork_id": "148860", 
+        "creator": [
+            {
+                "creator_description": "Hubert Robert (French, 1733-1808)", 
+                "creator_role": "artist"
+            }
+        ], 
+        "department_name": "European Painting and Sculpture", 
+        "title": "Pair of Paintings: The Colonnade of St. Peter's, Rome, during the Conclave and The Grotto of Posillipo"
+    }, 
+    {
+        "accession_number": "1977.116", 
+        "artwork_id": "148958", 
+        "creator": [
+            {
+                "creator_description": "Antoine Pierre Mongin (French, 1761-1827)", 
+                "creator_role": "artist"
+            }
+        ], 
+        "department_name": "Modern European Painting and Sculpture", 
+        "title": "The Curious One"
+    }, 
+    {
+        "accession_number": "1978.43", 
+        "artwork_id": "149386", 
+        "creator": [
+            {
+                "creator_description": "Alexander Riquet (French)", 
+                "creator_role": "enamelist"
+            }, 
+            {
+                "Alexis Falize (French, 1811-1898)": "goldsmith"
+            }, 
+            {
+                "F\u00e9lix Bracquemond (French, 1833-1914)": "designer"
+            }, 
+            {
+                "Auguste Rodin (French, 1840-1917)": "sculptor"
+            }
+        ], 
+        "department_name": "Decorative Art and Design", 
+        "title": "Hand Mirror"
+    }, 
+    {
+        "accession_number": "1980.231", 
+        "artwork_id": "150015", 
+        "creator": [
+            {
+                "creator_description": "Rosa Bonheur (French, 1822-1899)", 
+                "creator_role": "artist"
+            }
+        ], 
+        "department_name": "Modern European Painting and Sculpture", 
+        "title": "Wild Boars in the Snow"
+    }, 
+    {
+        "accession_number": "1980.258", 
+        "artwork_id": "150046", 
+        "creator": [
+            {
+                "creator_description": "John Faed (Scottish, 1820-1902)", 
+                "creator_role": "artist"
+            }
+        ], 
+        "department_name": "Modern European Painting and Sculpture", 
+        "title": "Expulsion of Adam and Eve"
+    }, 
+    {
+        "accession_number": "1980.74", 
+        "artwork_id": "150156", 
+        "creator": [
+            {
+                "creator_description": "Carlo Bugatti (Italian, 1856-1940)", 
+                "creator_role": "designed by"
+            }, 
+            {
+                "Carlo Bugatti (Italian, 1856-1940)": "executed by"
+            }, 
+            {
+                "Adrien-Aur\u00e9lien Hebrard (French, 1866-1937)": "artist"
+            }, 
+            {
+                "Adrien-Aur\u00e9lien Hebrard (French, 1866-1937)": "executed by"
+            }
+        ], 
+        "department_name": "Decorative Art and Design", 
+        "title": "Tea Service"
+    }, 
+    {
+        "accession_number": "1985.272", 
+        "artwork_id": "152445", 
+        "creator": [
+            {
+                "creator_description": "Gion Seitoku (Japanese, 1781-1829?)", 
+                "creator_role": "artist"
+            }
+        ], 
+        "department_name": "Japanese Art", 
+        "title": "Courtesan"
+    }, 
+    {
+        "accession_number": "1985.57", 
+        "artwork_id": "152776", 
+        "creator": [
+            {
+                "creator_description": "Pablo Picasso (Spanish, 1881-1973)", 
+                "creator_role": "artist"
+            }
+        ], 
+        "department_name": "Modern European Painting and Sculpture", 
+        "title": "Bull Skull, Fruit, Pitcher"
+    }, 
+    {
+        "accession_number": "1987.140", 
+        "artwork_id": "153610", 
+        "creator": [
+            {
+                "creator_description": "Georgia O'Keeffe (American, 1887-1986)", 
+                "creator_role": "artist"
+            }
+        ], 
+        "department_name": "American Painting and Sculpture", 
+        "title": "Sunflower, New Mexico, I"
+    }, 
+    {
+        "accession_number": "1988.18", 
+        "artwork_id": "154062", 
+        "creator": [
+            {
+                "creator_description": "Koboku (Japanese)", 
+                "creator_role": "artist"
+            }
+        ], 
+        "department_name": "Japanese Art", 
+        "title": "Female Daoist Figure in Landscape"
+    }, 
+    {
+        "accession_number": "1988.19", 
+        "artwork_id": "154073", 
+        "creator": [
+            {
+                "creator_description": null, 
+                "creator_role": null
+            }
+        ], 
+        "department_name": "Japanese Art", 
+        "title": "Kasuga Mandala"
+    }, 
+    {
+        "accession_number": "1991.45", 
+        "artwork_id": "156112", 
+        "creator": [
+            {
+                "creator_description": "Carlo Bugatti (Italian, 1856-1940)", 
+                "creator_role": "designed by"
+            }, 
+            {
+                "Carlo Bugatti (Italian, 1856-1940)": "executed by"
+            }
+        ], 
+        "department_name": "Decorative Art and Design", 
+        "title": "Table"
+    }, 
+    {
+        "accession_number": "1991.46", 
+        "artwork_id": "156113", 
+        "creator": [
+            {
+                "creator_description": "Carlo Bugatti (Italian, 1856-1940)", 
+                "creator_role": "designed by"
+            }, 
+            {
+                "Carlo Bugatti (Italian, 1856-1940)": "executed by"
+            }, 
+            {
+                "Adrien-Aur\u00e9lien Hebrard (French, 1866-1937)": "artist"
+            }, 
+            {
+                "Adrien-Aur\u00e9lien Hebrard (French, 1866-1937)": "executed by"
+            }
+        ], 
+        "department_name": "Decorative Art and Design", 
+        "title": "Salver"
+    }, 
+    {
+        "accession_number": "1992.235", 
+        "artwork_id": "156524", 
+        "creator": [
+            {
+                "creator_description": "Maxime Du Camp (French, 1822-1894)", 
+                "creator_role": "artist"
+            }, 
+            {
+                "Gide et J. Baudry": "published by"
+            }
+        ], 
+        "department_name": "Photography", 
+        "title": "Colossol Monolith of Amenhotep III, Gournah"
+    }, 
+    {
+        "accession_number": "1996.233", 
+        "artwork_id": "159457", 
+        "creator": [
+            {
+                "creator_description": "Lucien Freud (British, 1922-2011)", 
+                "creator_role": "artist"
+            }, 
+            {
+                "Studio Prints": "printer"
+            }, 
+            {
+                "Matthew Marks Gallery": "publisher"
+            }
+        ], 
+        "department_name": "Prints", 
+        "title": "Large Head"
+    }, 
+    {
+        "accession_number": "1997.246", 
+        "artwork_id": "159976", 
+        "creator": [
+            {
+                "creator_description": "Andy Warhol (American, 1928-1987)", 
+                "creator_role": "artist"
+            }
+        ], 
+        "department_name": "Contemporary Art", 
+        "title": "Marilyn x 100"
+    }, 
+    {
+        "accession_number": "1998.78", 
+        "artwork_id": "160723", 
+        "creator": [
+            {
+                "creator_description": "Song Xu (Chinese, 1525-c. 1606)", 
+                "creator_role": "artist"
+            }
+        ], 
+        "department_name": "Chinese Art", 
+        "title": "Eighteen Views of Huzhou"
+    }, 
+    {
+        "accession_number": "1998.78.1", 
+        "artwork_id": "160724", 
+        "creator": [
+            {
+                "creator_description": "Song Xu (Chinese, 1525-c. 1606)", 
+                "creator_role": "artist"
+            }
+        ], 
+        "department_name": "Chinese Art", 
+        "title": "Xintang (Immortal's Peak)"
+    }, 
+    {
+        "accession_number": "1998.78.10", 
+        "artwork_id": "160725", 
+        "creator": [
+            {
+                "creator_description": "Song Xu (Chinese, 1525-c. 1606)", 
+                "creator_role": "artist"
+            }
+        ], 
+        "department_name": "Chinese Art", 
+        "title": "Mt. Shenchang"
+    }, 
+    {
+        "accession_number": "1998.78.11", 
+        "artwork_id": "160726", 
+        "creator": [
+            {
+                "creator_description": "Song Xu (Chinese, 1525-c. 1606)", 
+                "creator_role": "artist"
+            }
+        ], 
+        "department_name": "Chinese Art", 
+        "title": "Guiyun Shrine"
+    }, 
+    {
+        "accession_number": "1998.78.12", 
+        "artwork_id": "160727", 
+        "creator": [
+            {
+                "creator_description": "Song Xu (Chinese, 1525-c. 1606)", 
+                "creator_role": "artist"
+            }
+        ], 
+        "department_name": "Chinese Art", 
+        "title": "Xianding (Immortal's Peak)"
+    }, 
+    {
+        "accession_number": "1998.78.13", 
+        "artwork_id": "160728", 
+        "creator": [
+            {
+                "creator_description": "Song Xu (Chinese, 1525-c. 1606)", 
+                "creator_role": "artist"
+            }
+        ], 
+        "department_name": "Chinese Art", 
+        "title": "Mt. Daochang"
+    }, 
+    {
+        "accession_number": "1998.78.14", 
+        "artwork_id": "160729", 
+        "creator": [
+            {
+                "creator_description": "Song Xu (Chinese, 1525-c. 1606)", 
+                "creator_role": "artist"
+            }
+        ], 
+        "department_name": "Chinese Art", 
+        "title": "Baoyang Lake"
+    }, 
+    {
+        "accession_number": "1998.78.15", 
+        "artwork_id": "160730", 
+        "creator": [
+            {
+                "creator_description": "Song Xu (Chinese, 1525-c. 1606)", 
+                "creator_role": "artist"
+            }
+        ], 
+        "department_name": "Chinese Art", 
+        "title": "L\u00fcshan Hui"
+    }, 
+    {
+        "accession_number": "1998.78.16", 
+        "artwork_id": "160731", 
+        "creator": [
+            {
+                "creator_description": "Song Xu (Chinese, 1525-c. 1606)", 
+                "creator_role": "artist"
+            }
+        ], 
+        "department_name": "Chinese Art", 
+        "title": "Mt. Changchao"
+    }, 
+    {
+        "accession_number": "1998.78.17", 
+        "artwork_id": "160732", 
+        "creator": [
+            {
+                "creator_description": "Song Xu (Chinese, 1525-c. 1606)", 
+                "creator_role": "artist"
+            }
+        ], 
+        "department_name": "Chinese Art", 
+        "title": "Bilang Lake"
+    }, 
+    {
+        "accession_number": "1998.78.18", 
+        "artwork_id": "160733", 
+        "creator": [
+            {
+                "creator_description": "Song Xu (Chinese, 1525-c. 1606)", 
+                "creator_role": "artist"
+            }
+        ], 
+        "department_name": "Chinese Art", 
+        "title": "Eighteen Views of Wuxing: Xiaomei"
+    }, 
+    {
+        "accession_number": "1998.78.2", 
+        "artwork_id": "160734", 
+        "creator": [
+            {
+                "creator_description": "Song Xu (Chinese, 1525-c. 1606)", 
+                "creator_role": "artist"
+            }
+        ], 
+        "department_name": "Chinese Art", 
+        "title": "Mt. Fenghuang (Mt. Phoenix)"
+    }, 
+    {
+        "accession_number": "1998.78.3", 
+        "artwork_id": "160735", 
+        "creator": [
+            {
+                "creator_description": "Song Xu (Chinese, 1525-c. 1606)", 
+                "creator_role": "artist"
+            }
+        ], 
+        "department_name": "Chinese Art", 
+        "title": "Mt. Wuzhan"
+    }, 
+    {
+        "accession_number": "1998.78.4", 
+        "artwork_id": "160736", 
+        "creator": [
+            {
+                "creator_description": "Song Xu (Chinese, 1525-c. 1606)", 
+                "creator_role": "artist"
+            }
+        ], 
+        "department_name": "Chinese Art", 
+        "title": "Mt. Biyan (Green Cliff)"
+    }, 
+    {
+        "accession_number": "1998.78.5", 
+        "artwork_id": "160737", 
+        "creator": [
+            {
+                "creator_description": "Song Xu (Chinese, 1525-c. 1606)", 
+                "creator_role": "artist"
+            }
+        ], 
+        "department_name": "Chinese Art", 
+        "title": "Mt. Dong (Grotto Mountain)"
+    }, 
+    {
+        "accession_number": "1998.78.6", 
+        "artwork_id": "160738", 
+        "creator": [
+            {
+                "creator_description": "Song Xu (Chinese, 1525-c. 1606)", 
+                "creator_role": "artist"
+            }
+        ], 
+        "department_name": "Chinese Art", 
+        "title": "Yutai Peak (Jade Terrace Peak)"
+    }, 
+    {
+        "accession_number": "1998.78.7", 
+        "artwork_id": "160739", 
+        "creator": [
+            {
+                "creator_description": "Song Xu (Chinese, 1525-c. 1606)", 
+                "creator_role": "artist"
+            }
+        ], 
+        "department_name": "Chinese Art", 
+        "title": "Huanglong Cave (Yellow Dragon Cave)"
+    }, 
+    {
+        "accession_number": "1998.78.8", 
+        "artwork_id": "160740", 
+        "creator": [
+            {
+                "creator_description": "Song Xu (Chinese, 1525-c. 1606)", 
+                "creator_role": "artist"
+            }
+        ], 
+        "department_name": "Chinese Art", 
+        "title": "Fushan Monastery"
+    }, 
+    {
+        "accession_number": "1998.78.9", 
+        "artwork_id": "160741", 
+        "creator": [
+            {
+                "creator_description": "Song Xu (Chinese, 1525-c. 1606)", 
+                "creator_role": "artist"
+            }
+        ], 
+        "department_name": "Chinese Art", 
+        "title": "Hexi"
+    }, 
+    {
+        "accession_number": "2004.18", 
+        "artwork_id": "163361", 
+        "creator": [
+            {
+                "creator_description": "Aaron Siskind (American, 1903-1991)", 
+                "creator_role": "artist"
+            }
+        ], 
+        "department_name": "Photography", 
+        "title": "Peru 297"
+    }, 
+    {
+        "accession_number": "2005.144", 
+        "artwork_id": "163645", 
+        "creator": [
+            {
+                "creator_description": "Theodore Roszak", 
+                "creator_role": "artist"
+            }
+        ], 
+        "department_name": "American Painting and Sculpture", 
+        "title": "White and Steel Polars"
+    }, 
+    {
+        "accession_number": "2008.152", 
+        "artwork_id": "166211", 
+        "creator": [
+            {
+                "creator_description": null, 
+                "creator_role": null
+            }
+        ], 
+        "department_name": "African Art", 
+        "title": "Pipe"
+    }, 
+    {
+        "accession_number": "2010.426", 
+        "artwork_id": "168719", 
+        "creator": [
+            {
+                "creator_description": "Richard Artschwager (American, 1923-2013)", 
+                "creator_role": "artist"
+            }, 
+            {
+                "Brooke Alexander, Inc.": "published by"
+            }
+        ], 
+        "department_name": "Prints", 
+        "title": "Interior"
+    }, 
+    {
+        "accession_number": "2011.329", 
+        "artwork_id": "169498", 
+        "creator": [
+            {
+                "creator_description": "Marilyn Bridges (American, 1948-)", 
+                "creator_role": "artist"
+            }
+        ], 
+        "department_name": "Photography", 
+        "title": "Moray, Peru"
+    }, 
+    {
+        "accession_number": "2011.502", 
+        "artwork_id": "169719", 
+        "creator": [
+            {
+                "creator_description": "Phyllis Seltzer (American, 1928-)", 
+                "creator_role": "artist"
+            }, 
+            {
+                "Zoya Trofimova (American, 1950-)": "artist"
+            }
+        ], 
+        "department_name": "Prints", 
+        "title": "Legacy B (diptych)"
+    }, 
+    {
+        "accession_number": "2013.315", 
+        "artwork_id": "170817", 
+        "creator": [
+            {
+                "creator_description": "others (Indian)", 
+                "creator_role": "artist"
+            }, 
+            {
+                "Mushfiq (Indian)": "artist"
+            }
+        ], 
+        "department_name": "Indian and South East Asian Art", 
+        "title": "Folios A and B from the \"Five Treasures\" (Panj Ganj) of Jami"
+    }, 
+    {
+        "accession_number": "2015.104", 
+        "artwork_id": "172441", 
+        "creator": [
+            {
+                "creator_description": "Robert Colescott (American, 1925-2009)", 
+                "creator_role": "artist"
+            }, 
+            {
+                "Edward Ruscha (American, 1937-)": "artist"
+            }, 
+            {
+                "Garo Zareh Antreasian (American, 1922-)": "artist"
+            }, 
+            {
+                "James Granberry Davis (American, 1931-)": "artist"
+            }, 
+            {
+                "John Beerman (American, b. 1958)": "artist"
+            }, 
+            {
+                "Christopher Brown (American, 1951-)": "artist"
+            }, 
+            {
+                "David Row (American, 1949-)": "artist"
+            }, 
+            {
+                "Clinton Adams (American, 1918-2002)": "artist"
+            }, 
+            {
+                "Italo Scanga (American, 1932-2001)": "artist"
+            }, 
+            {
+                "Steven Sorman": "artist"
+            }, 
+            {
+                "Gendron Lloyd Jensen (American, 1939-)": "artist"
+            }, 
+            {
+                "Walter Miller Askin (American, 1929-)": "artist"
+            }, 
+            {
+                "William Brice (American, 1921-2008)": "artist"
+            }, 
+            {
+                "Larry Brown (American, b. 1942)": "artist"
+            }, 
+            {
+                "Squeak Carnwath (American, 1947-)": "artist"
+            }, 
+            {
+                "James Drake (American, 1946-)": "artist"
+            }, 
+            {
+                "Margo Humphrey (American, 1942-)": "artist"
+            }, 
+            {
+                "Roberto Juarez (American, 1952-)": "artist"
+            }, 
+            {
+                "Joy Laville (American, 1923-)": "artist"
+            }, 
+            {
+                "George McNeil (American, 1908-1995)": "artist"
+            }, 
+            {
+                "NULL": "artist"
+            }, 
+            {
+                "Hollis Sigler (American, 1948-2001)": "artist"
+            }, 
+            {
+                "Jaune Quick-to-See Smith (American, 1940-)": "artist"
+            }, 
+            {
+                "June Wayne (American, 1918-2011)": "artist"
+            }, 
+            {
+                "Printed at Tamarind Institute, University of New Mexico, Albuquerque, NM": "publisher"
+            }
+        ], 
+        "department_name": "Prints", 
+        "title": "Artists' Impressions"
+    }, 
+    {
+        "accession_number": "2015.6", 
+        "artwork_id": "172569", 
+        "creator": [
+            {
+                "creator_description": null, 
+                "creator_role": null
+            }
+        ], 
+        "department_name": "Art of the Americas", 
+        "title": "Head Beaker"
+    }, 
+    {
+        "accession_number": "2016.9", 
+        "artwork_id": "281599", 
+        "creator": [
+            {
+                "creator_description": null, 
+                "creator_role": null
+            }
+        ], 
+        "department_name": "African Art", 
+        "title": "Memorial Figure (Ere ibeji)"
+    }, 
+    {
+        "accession_number": "2016.56", 
+        "artwork_id": "286706", 
+        "creator": [
+            {
+                "creator_description": null, 
+                "creator_role": null
+            }
+        ], 
+        "department_name": "African Art", 
+        "title": "Ram Mask (Bolo)"
+    }, 
+    {
+        "accession_number": "2017.113", 
+        "artwork_id": "301455", 
+        "creator": [
+            {
+                "creator_description": "Anderson & Low", 
+                "creator_role": "NULL"
+            }
+        ], 
+        "department_name": "Photography", 
+        "title": "Ming with Sword"
+    }
+]
