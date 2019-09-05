@@ -1,0 +1,49 @@
+.jumbotron:first-of-type {
+	background-image: url('../images/ClevelandMuseum_exterior.jpg');
+	background-size: 100%;
+	/*background-repeat: no-repeat;*/
+    background-position: center center; 
+}
+.jumbotron h1 {
+	color: white;
+	font-family: sans-serif;
+	font-weight: bold;
+}
+.jumbotron p {
+	color: white;
+	font-family: sans-serif;
+	font-weight: bold;
+}
+.carousel-item{
+	padding:15px;
+	/*transition: transform .2s;*/
+}
+.artContainer p{
+	display: inline-block;
+	vertical-align: middle;
+	width: 75%;
+}
+.artContainer h3 {
+	margin-top: 25px;
+}
+.carousel-control-prev-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23000' viewBox='0 0 8 8'%3E%3Cpath d='M5.25 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/%3E%3C/svg%3E");
+}
+
+.carousel-control-next-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23000' viewBox='0 0 8 8'%3E%3Cpath d='M2.75 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3E%3C/svg%3E");
+}
+#myCarousel {
+	width: 80%;
+	margin:auto;
+}
+
+.artContainer img {
+	max-width: 20%;
+	height: auto;
+    margin: 20px;
+    transition: transform .2s;
+}
+.artContainer img:hover {
+	transform: scale(1.15);
+}
