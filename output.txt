@@ -8,7 +8,8 @@
                 "creator_role": "artist"
             }, 
             {
-                "Frederick Reynolds (American, b. England, 1882-1945)": "printer"
+                "creator_description": "Frederick Reynolds (American, b. England, 1882-1945)", 
+                "creator_role": "printer"
             }
         ], 
         "department_name": "Prints", 
@@ -47,7 +48,8 @@
                 "creator_role": "designed by"
             }, 
             {
-                "Michael Wauters (Flemish, 1679)": "woven by"
+                "creator_description": "Michael Wauters (Flemish, 1679)", 
+                "creator_role": "woven by"
             }
         ], 
         "department_name": "Textiles", 
@@ -62,7 +64,8 @@
                 "creator_role": "designed by"
             }, 
             {
-                "Michael Wauters (Flemish, 1679)": "woven by"
+                "creator_description": "Michael Wauters (Flemish, 1679)", 
+                "creator_role": "woven by"
             }
         ], 
         "department_name": "Textiles", 
@@ -77,7 +80,8 @@
                 "creator_role": "designed by"
             }, 
             {
-                "Michael Wauters (Flemish, 1679)": "woven by"
+                "creator_description": "Michael Wauters (Flemish, 1679)", 
+                "creator_role": "woven by"
             }
         ], 
         "department_name": "Textiles", 
@@ -92,7 +96,8 @@
                 "creator_role": "designed by"
             }, 
             {
-                "Michael Wauters (Flemish, 1679)": "woven by"
+                "creator_description": "Michael Wauters (Flemish, 1679)", 
+                "creator_role": "woven by"
             }
         ], 
         "department_name": "Textiles", 
@@ -107,7 +112,8 @@
                 "creator_role": "designed by"
             }, 
             {
-                "Michael Wauters (Flemish, 1679)": "woven by"
+                "creator_description": "Michael Wauters (Flemish, 1679)", 
+                "creator_role": "woven by"
             }
         ], 
         "department_name": "Textiles", 
@@ -122,7 +128,8 @@
                 "creator_role": "designed by"
             }, 
             {
-                "Michael Wauters (Flemish, 1679)": "woven by"
+                "creator_description": "Michael Wauters (Flemish, 1679)", 
+                "creator_role": "woven by"
             }
         ], 
         "department_name": "Textiles", 
@@ -137,7 +144,8 @@
                 "creator_role": "designed by"
             }, 
             {
-                "Michael Wauters (Flemish, 1679)": "woven by"
+                "creator_description": "Michael Wauters (Flemish, 1679)", 
+                "creator_role": "woven by"
             }
         ], 
         "department_name": "Textiles", 
@@ -152,7 +160,8 @@
                 "creator_role": "designed by"
             }, 
             {
-                "Michael Wauters (Flemish, 1679)": "woven by"
+                "creator_description": "Michael Wauters (Flemish, 1679)", 
+                "creator_role": "woven by"
             }
         ], 
         "department_name": "Textiles", 
@@ -167,7 +176,8 @@
                 "creator_role": "designed by"
             }, 
             {
-                "Michael Wauters (Flemish, 1679)": "woven by"
+                "creator_description": "Michael Wauters (Flemish, 1679)", 
+                "creator_role": "woven by"
             }
         ], 
         "department_name": "Textiles", 
@@ -290,10 +300,12 @@
                 "creator_role": "artist"
             }, 
             {
-                "Workshop": "NULL"
+                "creator_description": "Workshop", 
+                "creator_role": "NULL"
             }, 
             {
-                "Workshop": "artist"
+                "creator_description": "Workshop", 
+                "creator_role": "artist"
             }
         ], 
         "department_name": "European Painting and Sculpture", 
@@ -308,7 +320,8 @@
                 "creator_role": "designed by"
             }, 
             {
-                "Antoine-Fran\u00e7ois G\u00e9rard (French, 1760-1843)": "executed by"
+                "creator_description": "Antoine-Fran\u00e7ois G\u00e9rard (French, 1760-1843)", 
+                "creator_role": "executed by"
             }
         ], 
         "department_name": "European Painting and Sculpture", 
@@ -335,7 +348,8 @@
                 "creator_role": "artist"
             }, 
             {
-                "Onondaga Silk Company (American)": "manufacturer"
+                "creator_description": "Onondaga Silk Company (American)", 
+                "creator_role": "manufacturer"
             }
         ], 
         "department_name": "Textiles", 
@@ -410,7 +424,8 @@
                 "creator_role": "artist"
             }, 
             {
-                "Le Ma\u00eetre des Jeux (French)": "artist"
+                "creator_description": "Le Ma\u00eetre des Jeux (French)", 
+                "creator_role": "artist"
             }
         ], 
         "department_name": "European Painting and Sculpture", 
@@ -437,10 +452,12 @@
                 "creator_role": "artist"
             }, 
             {
-                "Workshop": "NULL"
+                "creator_description": "Workshop", 
+                "creator_role": "NULL"
             }, 
             {
-                "Workshop": "artist"
+                "creator_description": "Workshop", 
+                "creator_role": "artist"
             }
         ], 
         "department_name": "Medieval Art", 
@@ -455,7 +472,8 @@
                 "creator_role": "artist"
             }, 
             {
-                "Henrik Wigstr\u00f6m (Russian, 1862-1923)": "fabricated by"
+                "creator_description": "Henrik Wigstr\u00f6m (Russian, 1862-1923)", 
+                "creator_role": "fabricated by"
             }
         ], 
         "department_name": "Decorative Art and Design", 
@@ -518,7 +536,8 @@
                 "creator_role": "artist"
             }, 
             {
-                "Henrik Wigstr\u00f6m (Russian, 1862-1923)": "fabricated by"
+                "creator_description": "Henrik Wigstr\u00f6m (Russian, 1862-1923)", 
+                "creator_role": "fabricated by"
             }
         ], 
         "department_name": "Decorative Art and Design", 
@@ -533,13 +552,16 @@
                 "creator_role": "artist"
             }, 
             {
-                "Mikhail Evlampievich Perkhin (Russian, 1860-1903)": "fabricated by"
+                "creator_description": "Mikhail Evlampievich Perkhin (Russian, 1860-1903)", 
+                "creator_role": "fabricated by"
             }, 
             {
-                "Mikhail Evlampievich Perkhin (Russian, 1860-1903)": "workmaster"
+                "creator_description": "Mikhail Evlampievich Perkhin (Russian, 1860-1903)", 
+                "creator_role": "workmaster"
             }, 
             {
-                "Johannes Zehngraf (Russian, 1857-1908)": "miniature painted by"
+                "creator_description": "Johannes Zehngraf (Russian, 1857-1908)", 
+                "creator_role": "miniature painted by"
             }
         ], 
         "department_name": "Decorative Art and Design", 
@@ -554,13 +576,16 @@
                 "creator_role": "artist"
             }, 
             {
-                "Mikhail Evlampievich Perkhin (Russian, 1860-1903)": "fabricated by"
+                "creator_description": "Mikhail Evlampievich Perkhin (Russian, 1860-1903)", 
+                "creator_role": "fabricated by"
             }, 
             {
-                "Mikhail Evlampievich Perkhin (Russian, 1860-1903)": "workmaster"
+                "creator_description": "Mikhail Evlampievich Perkhin (Russian, 1860-1903)", 
+                "creator_role": "workmaster"
             }, 
             {
-                "Johannes Zehngraf (Russian, 1857-1908)": "miniature painted by"
+                "creator_description": "Johannes Zehngraf (Russian, 1857-1908)", 
+                "creator_role": "miniature painted by"
             }
         ], 
         "department_name": "Decorative Art and Design", 
@@ -575,7 +600,8 @@
                 "creator_role": "artist"
             }, 
             {
-                "Henrik Wigstr\u00f6m (Russian, 1862-1923)": "fabricated by"
+                "creator_description": "Henrik Wigstr\u00f6m (Russian, 1862-1923)", 
+                "creator_role": "fabricated by"
             }
         ], 
         "department_name": "Decorative Art and Design", 
@@ -590,10 +616,12 @@
                 "creator_role": "artist"
             }, 
             {
-                "Mikhail Evlampievich Perkhin (Russian, 1860-1903)": "fabricated by"
+                "creator_description": "Mikhail Evlampievich Perkhin (Russian, 1860-1903)", 
+                "creator_role": "fabricated by"
             }, 
             {
-                "Mikhail Evlampievich Perkhin (Russian, 1860-1903)": "workmaster"
+                "creator_description": "Mikhail Evlampievich Perkhin (Russian, 1860-1903)", 
+                "creator_role": "workmaster"
             }
         ], 
         "department_name": "Decorative Art and Design", 
@@ -608,10 +636,12 @@
                 "creator_role": "artist"
             }, 
             {
-                "Mikhail Evlampievich Perkhin (Russian, 1860-1903)": "fabricated by"
+                "creator_description": "Mikhail Evlampievich Perkhin (Russian, 1860-1903)", 
+                "creator_role": "fabricated by"
             }, 
             {
-                "Mikhail Evlampievich Perkhin (Russian, 1860-1903)": "workmaster"
+                "creator_description": "Mikhail Evlampievich Perkhin (Russian, 1860-1903)", 
+                "creator_role": "workmaster"
             }
         ], 
         "department_name": "Decorative Art and Design", 
@@ -638,7 +668,8 @@
                 "creator_role": "artist"
             }, 
             {
-                "others (Chinese)": "artist"
+                "creator_description": "others (Chinese)", 
+                "creator_role": "artist"
             }
         ], 
         "department_name": "Chinese Art", 
@@ -653,10 +684,12 @@
                 "creator_role": "artist"
             }, 
             {
-                "Workshop": "NULL"
+                "creator_description": "Workshop", 
+                "creator_role": "NULL"
             }, 
             {
-                "Workshop": "artist"
+                "creator_description": "Workshop", 
+                "creator_role": "artist"
             }
         ], 
         "department_name": "Medieval Art", 
@@ -671,7 +704,8 @@
                 "creator_role": "manufacturer"
             }, 
             {
-                "null": null
+                "creator_description": null, 
+                "creator_role": null
             }
         ], 
         "department_name": "Decorative Art and Design", 
@@ -698,7 +732,8 @@
                 "creator_role": "made by"
             }, 
             {
-                "Bristol Porcelain Factory (British)": "made by"
+                "creator_description": "Bristol Porcelain Factory (British)", 
+                "creator_role": "made by"
             }
         ], 
         "department_name": "Decorative Art and Design", 
@@ -773,13 +808,16 @@
                 "creator_role": "enamelist"
             }, 
             {
-                "Alexis Falize (French, 1811-1898)": "goldsmith"
+                "creator_description": "Alexis Falize (French, 1811-1898)", 
+                "creator_role": "goldsmith"
             }, 
             {
-                "F\u00e9lix Bracquemond (French, 1833-1914)": "designer"
+                "creator_description": "F\u00e9lix Bracquemond (French, 1833-1914)", 
+                "creator_role": "designer"
             }, 
             {
-                "Auguste Rodin (French, 1840-1917)": "sculptor"
+                "creator_description": "Auguste Rodin (French, 1840-1917)", 
+                "creator_role": "sculptor"
             }
         ], 
         "department_name": "Decorative Art and Design", 
@@ -818,13 +856,16 @@
                 "creator_role": "designed by"
             }, 
             {
-                "Carlo Bugatti (Italian, 1856-1940)": "executed by"
+                "creator_description": "Carlo Bugatti (Italian, 1856-1940)", 
+                "creator_role": "executed by"
             }, 
             {
-                "Adrien-Aur\u00e9lien Hebrard (French, 1866-1937)": "artist"
+                "creator_description": "Adrien-Aur\u00e9lien Hebrard (French, 1866-1937)", 
+                "creator_role": "artist"
             }, 
             {
-                "Adrien-Aur\u00e9lien Hebrard (French, 1866-1937)": "executed by"
+                "creator_description": "Adrien-Aur\u00e9lien Hebrard (French, 1866-1937)", 
+                "creator_role": "executed by"
             }
         ], 
         "department_name": "Decorative Art and Design", 
@@ -899,7 +940,8 @@
                 "creator_role": "designed by"
             }, 
             {
-                "Carlo Bugatti (Italian, 1856-1940)": "executed by"
+                "creator_description": "Carlo Bugatti (Italian, 1856-1940)", 
+                "creator_role": "executed by"
             }
         ], 
         "department_name": "Decorative Art and Design", 
@@ -914,13 +956,16 @@
                 "creator_role": "designed by"
             }, 
             {
-                "Carlo Bugatti (Italian, 1856-1940)": "executed by"
+                "creator_description": "Carlo Bugatti (Italian, 1856-1940)", 
+                "creator_role": "executed by"
             }, 
             {
-                "Adrien-Aur\u00e9lien Hebrard (French, 1866-1937)": "artist"
+                "creator_description": "Adrien-Aur\u00e9lien Hebrard (French, 1866-1937)", 
+                "creator_role": "artist"
             }, 
             {
-                "Adrien-Aur\u00e9lien Hebrard (French, 1866-1937)": "executed by"
+                "creator_description": "Adrien-Aur\u00e9lien Hebrard (French, 1866-1937)", 
+                "creator_role": "executed by"
             }
         ], 
         "department_name": "Decorative Art and Design", 
@@ -935,7 +980,8 @@
                 "creator_role": "artist"
             }, 
             {
-                "Gide et J. Baudry": "published by"
+                "creator_description": "Gide et J. Baudry", 
+                "creator_role": "published by"
             }
         ], 
         "department_name": "Photography", 
@@ -950,10 +996,12 @@
                 "creator_role": "artist"
             }, 
             {
-                "Studio Prints": "printer"
+                "creator_description": "Studio Prints", 
+                "creator_role": "printer"
             }, 
             {
-                "Matthew Marks Gallery": "publisher"
+                "creator_description": "Matthew Marks Gallery", 
+                "creator_role": "publisher"
             }
         ], 
         "department_name": "Prints", 
@@ -1244,7 +1292,8 @@
                 "creator_role": "artist"
             }, 
             {
-                "Brooke Alexander, Inc.": "published by"
+                "creator_description": "Brooke Alexander, Inc.", 
+                "creator_role": "published by"
             }
         ], 
         "department_name": "Prints", 
@@ -1271,7 +1320,8 @@
                 "creator_role": "artist"
             }, 
             {
-                "Zoya Trofimova (American, 1950-)": "artist"
+                "creator_description": "Zoya Trofimova (American, 1950-)", 
+                "creator_role": "artist"
             }
         ], 
         "department_name": "Prints", 
@@ -1286,7 +1336,8 @@
                 "creator_role": "artist"
             }, 
             {
-                "Mushfiq (Indian)": "artist"
+                "creator_description": "Mushfiq (Indian)", 
+                "creator_role": "artist"
             }
         ], 
         "department_name": "Indian and South East Asian Art", 
@@ -1301,76 +1352,100 @@
                 "creator_role": "artist"
             }, 
             {
-                "Edward Ruscha (American, 1937-)": "artist"
+                "creator_description": "Edward Ruscha (American, 1937-)", 
+                "creator_role": "artist"
             }, 
             {
-                "Garo Zareh Antreasian (American, 1922-)": "artist"
+                "creator_description": "Garo Zareh Antreasian (American, 1922-)", 
+                "creator_role": "artist"
             }, 
             {
-                "James Granberry Davis (American, 1931-)": "artist"
+                "creator_description": "James Granberry Davis (American, 1931-)", 
+                "creator_role": "artist"
             }, 
             {
-                "John Beerman (American, b. 1958)": "artist"
+                "creator_description": "John Beerman (American, b. 1958)", 
+                "creator_role": "artist"
             }, 
             {
-                "Christopher Brown (American, 1951-)": "artist"
+                "creator_description": "Christopher Brown (American, 1951-)", 
+                "creator_role": "artist"
             }, 
             {
-                "David Row (American, 1949-)": "artist"
+                "creator_description": "David Row (American, 1949-)", 
+                "creator_role": "artist"
             }, 
             {
-                "Clinton Adams (American, 1918-2002)": "artist"
+                "creator_description": "Clinton Adams (American, 1918-2002)", 
+                "creator_role": "artist"
             }, 
             {
-                "Italo Scanga (American, 1932-2001)": "artist"
+                "creator_description": "Italo Scanga (American, 1932-2001)", 
+                "creator_role": "artist"
             }, 
             {
-                "Steven Sorman": "artist"
+                "creator_description": "Steven Sorman", 
+                "creator_role": "artist"
             }, 
             {
-                "Gendron Lloyd Jensen (American, 1939-)": "artist"
+                "creator_description": "Gendron Lloyd Jensen (American, 1939-)", 
+                "creator_role": "artist"
             }, 
             {
-                "Walter Miller Askin (American, 1929-)": "artist"
+                "creator_description": "Walter Miller Askin (American, 1929-)", 
+                "creator_role": "artist"
             }, 
             {
-                "William Brice (American, 1921-2008)": "artist"
+                "creator_description": "William Brice (American, 1921-2008)", 
+                "creator_role": "artist"
             }, 
             {
-                "Larry Brown (American, b. 1942)": "artist"
+                "creator_description": "Larry Brown (American, b. 1942)", 
+                "creator_role": "artist"
             }, 
             {
-                "Squeak Carnwath (American, 1947-)": "artist"
+                "creator_description": "Squeak Carnwath (American, 1947-)", 
+                "creator_role": "artist"
             }, 
             {
-                "James Drake (American, 1946-)": "artist"
+                "creator_description": "James Drake (American, 1946-)", 
+                "creator_role": "artist"
             }, 
             {
-                "Margo Humphrey (American, 1942-)": "artist"
+                "creator_description": "Margo Humphrey (American, 1942-)", 
+                "creator_role": "artist"
             }, 
             {
-                "Roberto Juarez (American, 1952-)": "artist"
+                "creator_description": "Roberto Juarez (American, 1952-)", 
+                "creator_role": "artist"
             }, 
             {
-                "Joy Laville (American, 1923-)": "artist"
+                "creator_description": "Joy Laville (American, 1923-)", 
+                "creator_role": "artist"
             }, 
             {
-                "George McNeil (American, 1908-1995)": "artist"
+                "creator_description": "George McNeil (American, 1908-1995)", 
+                "creator_role": "artist"
             }, 
             {
-                "NULL": "artist"
+                "creator_description": "NULL", 
+                "creator_role": "artist"
             }, 
             {
-                "Hollis Sigler (American, 1948-2001)": "artist"
+                "creator_description": "Hollis Sigler (American, 1948-2001)", 
+                "creator_role": "artist"
             }, 
             {
-                "Jaune Quick-to-See Smith (American, 1940-)": "artist"
+                "creator_description": "Jaune Quick-to-See Smith (American, 1940-)", 
+                "creator_role": "artist"
             }, 
             {
-                "June Wayne (American, 1918-2011)": "artist"
+                "creator_description": "June Wayne (American, 1918-2011)", 
+                "creator_role": "artist"
             }, 
             {
-                "Printed at Tamarind Institute, University of New Mexico, Albuquerque, NM": "publisher"
+                "creator_description": "Printed at Tamarind Institute, University of New Mexico, Albuquerque, NM", 
+                "creator_role": "publisher"
             }
         ], 
         "department_name": "Prints", 

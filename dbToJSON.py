@@ -23,7 +23,7 @@ for row in rows:
 	i = 0
 	while i < len(output):
 		if 'artwork_id' in output[i] and row[0] == output[i]['artwork_id']:
-			output[i]['creator'].append({row[2] : row[3]})
+			output[i]['creator'].append({'creator_description':row[2], 'creator_role':row[3]})
 			hasRecord = True
 			break
 		i += 1
@@ -38,7 +38,7 @@ for row in rows:
 				'department_name':row[4],
 				'accession_number':row[5]
 			})
-with open('output.json', 'w') as result:
+with open('output.txt', 'w') as result:
 	json.dump(output, result, indent=4)
 
 print('Number of artworks written to file: {0}'.format(len(output)))
