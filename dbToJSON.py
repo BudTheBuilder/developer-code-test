@@ -10,7 +10,7 @@ else:
 conn = sqlite3.connect(path)
 cur = conn.cursor()
 try:
-	cur.execute('SELECT DISTINCT artwork.id, title, creator.description, creator.role, department.name, accession_number FROM artwork\
+	cur.execute('SELECT DISTINCT artwork.id, title, creator.description, creator.role, department.name, accession_number, tombstone FROM artwork\
 		LEFT OUTER JOIN artwork__department ON artwork.id = artwork__department.artwork_id\
 		LEFT OUTER JOIN department ON department_id = department.id\
 		LEFT OUTER JOIN artwork__creator ON artwork.id = artwork__creator.artwork_id\
@@ -36,7 +36,8 @@ for row in rows:
 					'creator_role':row[3]
 				}],
 				'department_name':row[4],
-				'accession_number':row[5]
+				'accession_number':row[5],
+				'tombstone':row[6]
 			})
 with open('output.txt', 'w') as result:
 	json.dump(output, result, indent=4)
